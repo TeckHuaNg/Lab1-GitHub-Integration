@@ -16,6 +16,7 @@ public class Hell0W0rld {
      */
     public static void main(String[] args) {
         System.out.printf("Hello World, my GitHub account name is TeckHuaNg %n");
+        System.out.print("I used 0 instead of o because I already have a HelloWorld class");
     }
     
 }
